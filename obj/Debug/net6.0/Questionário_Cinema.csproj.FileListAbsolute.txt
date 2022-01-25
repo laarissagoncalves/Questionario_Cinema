@@ -1,0 +1,15 @@
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Questionário_Cinema\bin\Debug\net6.0\Questionário_Cinema.exe
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Questionário_Cinema\bin\Debug\net6.0\Questionário_Cinema.deps.json
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Questionário_Cinema\bin\Debug\net6.0\Questionário_Cinema.runtimeconfig.json
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Questionário_Cinema\bin\Debug\net6.0\Questionário_Cinema.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Questionário_Cinema\bin\Debug\net6.0\ref\Questionário_Cinema.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Questionário_Cinema\bin\Debug\net6.0\Questionário_Cinema.pdb
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Questionário_Cinema\obj\Debug\net6.0\Questionário_Cinema.csproj.AssemblyReference.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Questionário_Cinema\obj\Debug\net6.0\Questionário_Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Questionário_Cinema\obj\Debug\net6.0\Questionário_Cinema.AssemblyInfoInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Questionário_Cinema\obj\Debug\net6.0\Questionário_Cinema.AssemblyInfo.cs
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Questionário_Cinema\obj\Debug\net6.0\Questionário_Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Questionário_Cinema\obj\Debug\net6.0\Questionário_Cinema.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Questionário_Cinema\obj\Debug\net6.0\ref\Questionário_Cinema.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Questionário_Cinema\obj\Debug\net6.0\Questionário_Cinema.pdb
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Questionário_Cinema\obj\Debug\net6.0\Questionário_Cinema.genruntimeconfig.cache
